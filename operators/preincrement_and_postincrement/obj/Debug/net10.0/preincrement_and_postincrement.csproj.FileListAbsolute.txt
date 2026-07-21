@@ -1,0 +1,14 @@
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\bin\Debug\net10.0\preincrement_and_postincrement.exe
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\bin\Debug\net10.0\preincrement_and_postincrement.deps.json
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\bin\Debug\net10.0\preincrement_and_postincrement.runtimeconfig.json
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\bin\Debug\net10.0\preincrement_and_postincrement.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\bin\Debug\net10.0\preincrement_and_postincrement.pdb
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\obj\Debug\net10.0\preincrement_and_postincrement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\obj\Debug\net10.0\preincrement_and_postincrement.AssemblyInfoInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\obj\Debug\net10.0\preincrement_and_postincrement.AssemblyInfo.cs
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\obj\Debug\net10.0\preincrement_and_postincrement.csproj.CoreCompileInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\obj\Debug\net10.0\preincrement_and_postincrement.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\obj\Debug\net10.0\refint\preincrement_and_postincrement.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\obj\Debug\net10.0\preincrement_and_postincrement.pdb
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\obj\Debug\net10.0\preincrement_and_postincrement.genruntimeconfig.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\operators\preincrement_and_postincrement\obj\Debug\net10.0\ref\preincrement_and_postincrement.dll

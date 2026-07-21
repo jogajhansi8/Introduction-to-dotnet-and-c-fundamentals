@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "preincrement_and_postincrement/1.0.0": {
+        "runtime": {
+          "preincrement_and_postincrement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "preincrement_and_postincrement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
