@@ -1,0 +1,14 @@
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\bin\Debug\net10.0\built_in_features.exe
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\bin\Debug\net10.0\built_in_features.deps.json
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\bin\Debug\net10.0\built_in_features.runtimeconfig.json
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\bin\Debug\net10.0\built_in_features.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\bin\Debug\net10.0\built_in_features.pdb
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\obj\Debug\net10.0\built_in_features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\obj\Debug\net10.0\built_in_features.AssemblyInfoInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\obj\Debug\net10.0\built_in_features.AssemblyInfo.cs
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\obj\Debug\net10.0\built_in_features.csproj.CoreCompileInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\obj\Debug\net10.0\built_in_features.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\obj\Debug\net10.0\refint\built_in_features.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\obj\Debug\net10.0\built_in_features.pdb
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\obj\Debug\net10.0\built_in_features.genruntimeconfig.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\Arrays\built_in_features\obj\Debug\net10.0\ref\built_in_features.dll

@@ -1,0 +1,14 @@
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\bin\Debug\net10.0\loops_and_strings.exe
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\bin\Debug\net10.0\loops_and_strings.deps.json
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\bin\Debug\net10.0\loops_and_strings.runtimeconfig.json
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\bin\Debug\net10.0\loops_and_strings.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\bin\Debug\net10.0\loops_and_strings.pdb
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\obj\Debug\net10.0\loops_and_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\obj\Debug\net10.0\loops_and_strings.AssemblyInfoInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\obj\Debug\net10.0\loops_and_strings.AssemblyInfo.cs
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\obj\Debug\net10.0\loops_and_strings.csproj.CoreCompileInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\obj\Debug\net10.0\loops_and_strings.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\obj\Debug\net10.0\refint\loops_and_strings.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\obj\Debug\net10.0\loops_and_strings.pdb
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\obj\Debug\net10.0\loops_and_strings.genruntimeconfig.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\controlstatements\loops_and_strings\obj\Debug\net10.0\ref\loops_and_strings.dll
