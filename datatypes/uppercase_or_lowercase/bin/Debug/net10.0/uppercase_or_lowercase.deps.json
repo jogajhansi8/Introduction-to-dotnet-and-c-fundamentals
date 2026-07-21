@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "uppercase_or_lowercase/1.0.0": {
+        "runtime": {
+          "uppercase_or_lowercase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uppercase_or_lowercase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

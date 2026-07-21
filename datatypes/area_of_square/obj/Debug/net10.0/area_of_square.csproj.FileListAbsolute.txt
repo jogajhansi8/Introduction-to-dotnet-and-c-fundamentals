@@ -1,0 +1,14 @@
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\bin\Debug\net10.0\area_of_square.exe
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\bin\Debug\net10.0\area_of_square.deps.json
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\bin\Debug\net10.0\area_of_square.runtimeconfig.json
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\bin\Debug\net10.0\area_of_square.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\bin\Debug\net10.0\area_of_square.pdb
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\obj\Debug\net10.0\area_of_square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\obj\Debug\net10.0\area_of_square.AssemblyInfoInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\obj\Debug\net10.0\area_of_square.AssemblyInfo.cs
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\obj\Debug\net10.0\area_of_square.csproj.CoreCompileInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\obj\Debug\net10.0\area_of_square.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\obj\Debug\net10.0\refint\area_of_square.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\obj\Debug\net10.0\area_of_square.pdb
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\obj\Debug\net10.0\area_of_square.genruntimeconfig.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\area_of_square\obj\Debug\net10.0\ref\area_of_square.dll

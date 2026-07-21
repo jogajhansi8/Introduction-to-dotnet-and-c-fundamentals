@@ -1,0 +1,14 @@
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\bin\Debug\net10.0\uppercase_or_lowercase.exe
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\bin\Debug\net10.0\uppercase_or_lowercase.deps.json
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\bin\Debug\net10.0\uppercase_or_lowercase.runtimeconfig.json
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\bin\Debug\net10.0\uppercase_or_lowercase.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\bin\Debug\net10.0\uppercase_or_lowercase.pdb
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\obj\Debug\net10.0\uppercase_or_lowercase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\obj\Debug\net10.0\uppercase_or_lowercase.AssemblyInfoInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\obj\Debug\net10.0\uppercase_or_lowercase.AssemblyInfo.cs
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\obj\Debug\net10.0\uppercase_or_lowercase.csproj.CoreCompileInputs.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\obj\Debug\net10.0\uppercase_or_lowercase.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\obj\Debug\net10.0\refint\uppercase_or_lowercase.dll
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\obj\Debug\net10.0\uppercase_or_lowercase.pdb
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\obj\Debug\net10.0\uppercase_or_lowercase.genruntimeconfig.cache
+C:\Users\jogaj\OneDrive\Desktop\Introduction to dotnet and c# fundamentals\datatypes\uppercase_or_lowercase\obj\Debug\net10.0\ref\uppercase_or_lowercase.dll
